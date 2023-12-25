@@ -1,0 +1,27 @@
+{
+  "name": "roman-parser",
+  "version": "1.0.0",
+  "description": "Roman number parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoschneider/roman.git"
+  },
+  "keywords": [
+    "roman",
+    "number",
+    "parser"
+  ],
+  "author": "Diogo Eichert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogoschneider/roman-parser/issues"
+  },
+  "homepage": "https://github.com/diogoschneider/roman-parser#readme",
+  "devDependencies": {
+    "eslint-config-classic": "^1.8.4"
+  }
+}
